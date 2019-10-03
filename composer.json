@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/IG_FlatShipping5",
+    "name": "openmage-module-fostering\/ig_flatshipping5",
     "type": "magento-module",
-    "license": "OSL3",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "IDEALIAGroup Multiple Flat Shipping Module with custom text configuration",
     "authors": [
